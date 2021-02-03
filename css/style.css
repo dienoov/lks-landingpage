@@ -114,3 +114,11 @@
 .navbar-toggler-borderless {
     box-shadow: none !important;
 }
+
+ul > li > a {
+    color: #74d5de;
+}
+
+ul > li > a:hover {
+    color: #56cad8;
+}
