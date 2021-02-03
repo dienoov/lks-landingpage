@@ -1,0 +1,97 @@
+.font-biryani {
+    font-family: 'Biryani';
+    line-height: normal;
+}
+
+.font-biryani-bold {
+    font-family: 'Biryani';
+    font-weight: 700;
+    line-height: normal;
+}
+
+.font-biryani-black {
+    font-family: 'Biryani';
+    font-weight: 900;
+    line-height: normal;
+}
+
+#hero {
+    background-color: #fcfcfc;
+    height: 80vh;
+    width: 100%;
+}
+
+.btn-hero {
+    background-color: #282d33;
+    border-radius: 50px;
+    color: white;
+    padding: 15px 35px 10px 35px;
+}
+
+.btn-hero:focus {
+    box-shadow: none;
+}
+
+.btn-hero:hover {
+    color: white;
+    background-color: #16171a;
+}
+
+.bg-spray {
+    background-color: #74d5de;
+}
+
+.bg-turqoise {
+    background-color: #56cad8;
+}
+
+.text-spray {
+    color: #74d5de;
+}
+
+.text-turqoise {
+    color: #56cad8;
+}
+
+.border-spray {
+    border-color: #74d5de;
+}
+
+.border-turqoise {
+    border-color: #56cad8;
+}
+
+.btn-spray {
+    background-color: #74d5de;
+    border-radius: 50px;
+    color: white;
+    padding: 10px 35px 10px 35px;
+}
+
+.btn-spray:focus {
+    box-shadow: none;
+}
+
+.btn-spray:hover {
+    background-color: #56cad8;
+    color: white;
+}
+
+.input-spray:focus {
+    border-color: #74d5de;
+    box-shadow: none;
+}
+
+.btn-subscribe {
+    background-color: #74d5de;
+    color: white;
+}
+
+.btn-subscribe:focus {
+    box-shadow: none;
+}
+
+.btn-subscribe:hover {
+    background-color: #56cad8;
+    color: white;
+}
